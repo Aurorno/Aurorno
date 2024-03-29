@@ -189,20 +189,7 @@ Mac                      16 hrs 22 mins      ███████████�
 
 <div align="center">
 
-<!-- run 图片 -->
-<img src="" />
-
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Everestgavin/Everestgavin/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Everestgavin&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Everestgavin&theme=light&hide_border=true" />
