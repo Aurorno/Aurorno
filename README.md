@@ -58,7 +58,6 @@
 
 ### 🏢 Work experience
 
-<img align="right" width="88" src="" />
 
 - [西安没原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
 
