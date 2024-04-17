@@ -39,7 +39,7 @@
 #  🙋 Hello
 
 <table>
-  
+
 <tr><td>
 
 ### 🤺 About Me
@@ -59,8 +59,7 @@
 ### 🏢 Work experience
 
 
-- [西安没原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
-
+- [西安没原则科技有限公司]() &emsp; 📌 2024-03-04 —— Now
   - 工作岗位：软件工程师
   - 工作内容：创业
 
@@ -73,11 +72,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog-sun.netlify.app/blog/klc/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://blog-sun.netlify.app/blog/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog-sun.netlify.app/blog/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog-sun.netlify.app/blog/xizang/' target='_blank'>青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog-sun.netlify.app/blog/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
+* <a href='' target='_blank'>未来指南～</a> - 2024-03-18
+* <a href='' target='_blank'>你好，深圳！一切都是最好的安排！</a> - 2024-03-10
+* <a href='' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
+* <a href='' target='_blank'>青春没有售价，火车直达拉萨！</a> - 2024-02-16
+* <a href='' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -105,11 +104,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/25985021/' target='_blank'>人类简史</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/10785583/' target='_blank'>思考，快与慢</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/10738023/' target='_blank'>了不起的盖茨比</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/4913064/' target='_blank'>活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/11524204/' target='_blank'>围城</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -129,7 +128,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Everestgavin&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
-
 </td></tr>
 
 <tr><td>
